@@ -1,1 +1,5 @@
+Factorio GPT assistant planning repository.
 
+Содержимое:
+- `docs/architecture.md` — архитектура интеграции мода и сервиса.
+- `utility/` — исходники и руководство по запуску локального сервиса.
